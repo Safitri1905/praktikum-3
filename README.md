@@ -1,7 +1,10 @@
 # *Membuat Kode Program dari flowchart pertemuan ke 5*
-Tugas Pertemuan Ke 6
+Tugas Pertemuan Ke 5
+
 Nama: Safitri Eka Ramadhani
+
 Kelas: TI 24 A3
+
 NIM: 312410431
 
 ## *1. bilanganterbesar.py*
